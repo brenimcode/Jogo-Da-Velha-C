@@ -4,5 +4,5 @@
 
 <div align="left">
 <hr>
-<img src="https://cdn-icons-png.flaticon.com/512/497/497298.png" width="300" height="200">
+<img src="https://cdn-icons-png.flaticon.com/512/497/497298.png" width="25%" height="25%">
 </div>
