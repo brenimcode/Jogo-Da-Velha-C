@@ -4,5 +4,5 @@
 
 <div align="left">
 <hr>
-<img src="[https://user-images.githubusercontent.com/124779810/217577653-9e750bf6-e597-49e1-8a75-4d5ea6477e76.gif](https://cdn-icons-png.flaticon.com/512/497/497298.png)https://cdn-icons-png.flaticon.com/512/497/497298.png">
+<img src="https://user-images.githubusercontent.com/124779810/217577653-9e750bf6-e597-49e1-8a75-4d5ea6477e76.gif](https://cdn-icons-png.flaticon.com/512/497/497298.png)https://cdn-icons-png.flaticon.com/512/497/497298.png">
 </div>
