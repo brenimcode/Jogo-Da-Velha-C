@@ -1,19 +1,5 @@
 # Jogo-Da-Velha-C
 Este foi um trabalho que fiz na faculdade de Ciência Da Computação, em que fiz um jogo da velha em C.
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Bem vindo ao jogo da velha em C!</title>
-    <style>
-        h1 {
-            font-size: 36px;
-            color: #ff0000;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <h1>Bem vindo ao jogo da velha em C!</h1>
-    <!-- Restante do seu código aqui -->
-</body>
-</html>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=e7f216&center=true&vCenter=true&width=435&lines=Bem-Vindo+ao+jogo+da+Velha!;PLAY" alt="Typing SVG" /></a>
+</div>
