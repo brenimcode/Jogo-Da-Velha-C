@@ -5,5 +5,5 @@
 <div align="left">
 <!-- <img src="https://cdn-icons-png.flaticon.com/512/497/497298.png" width="25%" height="25%".> -->
 
-<iframe src="https://gifer.com/embed/XOsX" width=480 height=601.567 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="https://gifer.com/embed/XOsX">
 </div>
